@@ -12,7 +12,7 @@ repos:
   meta-arago:
     url: http://arago-project.org/git/meta-arago.git
     path: layers/meta-arago
-    refspec: dunfell
+    refspec: master
     layers:
       meta-arago-distro:
       meta-arago-extras:
@@ -26,7 +26,7 @@ repos:
   meta-qt5:
     url: https://github.com/meta-qt5/meta-qt5.git
     path: layers/meta-qt5
-    refspec: dunfell
+    refspec: master
   meta-openembedded:
     layers:
       meta-networking:
