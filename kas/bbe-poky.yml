@@ -7,7 +7,7 @@ repos:
   poky:
     refspec: febbe2944c0c4a04b85fa98fdc261186115954d8
   meta-openembedded:
-    refspec: e413c1ef621688e69bb7830bb3151ed23b30b73e
+    refspec: 8a72d29e0876830ffd96b85d7d0308302eb07a5d
   meta-arm:
     refspec: 0bd9c740267c0926e89bcfdb489790b7bf1fbd4b
   meta-ti:
