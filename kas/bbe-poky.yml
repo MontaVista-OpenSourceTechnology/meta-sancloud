@@ -20,6 +20,9 @@ repos:
     layers:
       meta:
       meta-poky:
+    patches:
+      tmp-revert:
+        path: kas/0001-Revert-bitbake.conf-Add-all-layers-from-BBLAYERS-to-.patch
   meta-openembedded:
     url: https://github.com/openembedded/meta-openembedded.git
     path: layers/meta-openembedded
