@@ -1,0 +1,12 @@
+header:
+  version: 9
+
+repos:
+  poky:
+    refspec: yocto-3.3.1
+  meta-openembedded:
+    refspec: cf5bd6a8308108b4313a1e45ce8aa87e73125bf9
+  meta-arm:
+    refspec: 12af38f31bc545e6aa134e9dacf4f3e4c9910b8d
+  meta-ti:
+    refspec: d57824e2a8c66bf29375e0baef7fc07fd00c2404
