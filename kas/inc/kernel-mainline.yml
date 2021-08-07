@@ -3,9 +3,9 @@ header:
 
 repos:
   meta-linux-mainline:
-    url: https://gitlab.com/openembedded/community/meta-linux-mainline.git
-    path: layers/meta-linux-mainline
+    url: https://git.sr.ht/~pbarker/meta-linux-mainline
     refspec: master
+    path: layers/meta-linux-mainline
 
 local_conf_header:
   linux_kernel: |
